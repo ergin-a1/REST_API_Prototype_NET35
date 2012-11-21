@@ -1,0 +1,5 @@
+C:\Users\ergin\Desktop\API_Prototype_GIT\API_Prototype\WCFMock\bin\Debug\WCFMock.dll
+C:\Users\ergin\Desktop\API_Prototype_GIT\API_Prototype\WCFMock\bin\Debug\WCFMock.pdb
+C:\Users\ergin\Desktop\API_Prototype_GIT\API_Prototype\WCFMock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ergin\Desktop\API_Prototype_GIT\API_Prototype\WCFMock\obj\Debug\WCFMock.dll
+C:\Users\ergin\Desktop\API_Prototype_GIT\API_Prototype\WCFMock\obj\Debug\WCFMock.pdb

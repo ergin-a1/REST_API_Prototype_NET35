@@ -1,0 +1,25 @@
+C:\Users\Damian\Documents\Visual Studio 2008\Projects\Service2\DynamicResponseType\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2008\Projects\Service2\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.dll
+C:\Users\Damian\Documents\Visual Studio 2008\Projects\Service2\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.pdb
+C:\Users\Damian\Documents\Visual Studio 2008\Projects\Service2\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.dll
+C:\Users\Damian\Documents\Visual Studio 2008\Projects\Service2\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.pdb
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.dll
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.pdb
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.dll
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\WCFDynamicResponseDemo\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.pdb
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\NextOneRestAPI_GIT\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.dll
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\NextOneRestAPI_GIT\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.pdb
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\NextOneRestAPI_GIT\DynamicResponseType\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\NextOneRestAPI_GIT\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.dll
+C:\Users\ergin\Documents\Visual Studio 2008\Projects\NextOneRestAPI_GIT\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.pdb
+C:\Users\ergin\Desktop\API_Prototype_GIT\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.dll
+C:\Users\ergin\Desktop\API_Prototype_GIT\DynamicResponseType\bin\Debug\DamianBlog.DynamicResponseType.pdb
+C:\Users\ergin\Desktop\API_Prototype_GIT\DynamicResponseType\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ergin\Desktop\API_Prototype_GIT\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.dll
+C:\Users\ergin\Desktop\API_Prototype_GIT\DynamicResponseType\obj\Debug\DamianBlog.DynamicResponseType.pdb

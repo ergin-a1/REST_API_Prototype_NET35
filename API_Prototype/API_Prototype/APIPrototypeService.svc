@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="APIPrototype.APIPrototypeService" CodeBehind="APIPrototypeService.svc.cs" Factory="DamianBlog.ServiceHostFactory2Ex" %>
